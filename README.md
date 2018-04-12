@@ -1,0 +1,2 @@
+# komputerki
+Coś tam wpisałam
