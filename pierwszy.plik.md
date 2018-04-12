@@ -1,1 +1,2 @@
 tekst pierwszego pliku
+xx
